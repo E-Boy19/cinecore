@@ -1,0 +1,6 @@
+{
+  "name": "CineCore // Movie Management System",
+  "description": "Futuristic cinematic movie database and control center featuring real-time data management, relational analytics, audit logging, and interactive schema visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
